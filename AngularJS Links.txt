@@ -1,0 +1,11 @@
+// AngularJS Tutorials
+https://angularjs.zeef.com/harris.brakmic#block_37269_tutorials
+
+// Fuse Angular Material Theme
+http://fuse-angular-material.withinpixels.com/
+http://themeforest.net/item/fuse-angularjs-material-design-admin-template/12931855?ref=srcn&ref=srcn&clickthrough_id=588260518&redirect_back=true
+http://themeforest.net/user/srcn/portfolio
+
+
+// John Papa
+https://github.com/johnpapa/angular-styleguide
